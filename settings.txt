@@ -1,0 +1,13 @@
+[jira]
+server=https://jira.atlassian.com
+
+[stash]
+base_url=https://stash.atlassian.com/api/1.0/users/
+url_branches=branches
+url_commit=commits
+url_diff=diff
+
+[main]
+# Time need logged in jira in seconds, 6.5h in seconds
+need_logged_time=23400
+logger_file=tracking.log

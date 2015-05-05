@@ -1,0 +1,4 @@
+[auth]
+user=Username
+password=Passwd
+repo=username/repos/repo_name
